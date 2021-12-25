@@ -12,7 +12,7 @@ On my blog, I share what I learned with GitHub.</br>
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)</br></br>
+<!-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)</br></br> -->
 
 ![younlll's github stats](https://github-readme-stats.vercel.app/api?username=younlll&show_icons=true)
 [![younlll's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=younlll&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/younlll)
