@@ -1,7 +1,8 @@
 ### Hi there 👋 &nbsp;&nbsp;My name is Yuna Lee.
-I am constantly studying to grow as a backend developer.</br>
-This is [my development blog.](https://youn0111.tistory.com/)</br>
-On my blog, I share what I learned with GitHub.</br>
+I am constantly studying to grow as a backend developer.<br>
+**Recently, I am learning Java and Spring and working on a side project.**<br>
+This is [my development blog.](https://youn0111.tistory.com/)<br>
+On my blog, I share what I learned with GitHub.<br>
 
 **Social**
 </br>
