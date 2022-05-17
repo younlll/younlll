@@ -16,6 +16,7 @@ On my blog, I share what I learned with GitHub.<br>
 <!-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)</br></br> -->
 
 ![younlll's github stats](https://github-readme-stats.vercel.app/api?username=younlll&show_icons=true)
+[![younlll's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=younlll&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/younlll)
 
 
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyounlll)](https://hits.seeyoufarm.com)-->
