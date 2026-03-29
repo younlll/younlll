@@ -17,7 +17,7 @@ On my blog, I share what I learned with GitHub.<br>
 ![Docker](https://img.shields.io/badge/Docker-0db7ed.svg?&style=for-the-badge&logo=Docker&logoColor=white)
 <!-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)</br></br> -->
 
-![younlll's github stats](https://github-readme-stats.vercel.app/api?username=younlll&show_icons=true)
+<!-- ![younlll's github stats](https://github-readme-stats.vercel.app/api?username=younlll&show_icons=true) -->
 [![younlll's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=younlll&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/younlll)
 
 
