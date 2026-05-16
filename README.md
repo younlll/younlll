@@ -6,7 +6,7 @@ On my blog, I share what I learned with GitHub.<br>
 
 **Social**
 </br>
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/lee.youun/)](https://www.instagram.com/lee.youun/)
+<!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/lee.youun/)](https://www.instagram.com/lee.youun/)-->
 
 **Languages and Tools**
 </br>
